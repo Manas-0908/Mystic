@@ -1,5 +1,5 @@
 import axios from  "axios";
 
 export const axiosInstance = axios.create({
-    baseURL : "https://mystic-wheat.vercel.app/api/"
+    baseURL : "https://blog-qe7s.onrender.com/api/"
 })
